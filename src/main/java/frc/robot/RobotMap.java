@@ -16,7 +16,7 @@ public class RobotMap {
   public final static int DriveZAxis = 2;
   public final static int DriveGoverner = 3;
   public final static int ResetForwardButton = 6;
-  public final static int ResetBackwardButton = 5;
+  public final static int ResPetBackwardButton = 5;
   public final static double DeadZone = 0.2;
 
   //Width and Length between the SwerveDrive, used for Pathfinder and SwerveDrive calculations
